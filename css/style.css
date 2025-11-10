@@ -1,0 +1,37 @@
+@media screen {
+    .background-cover:active {
+    }
+}
+
+@media only screen and (min-width:300px) and (max-width:575px) {
+    .slide {
+        width: auto;
+    }
+}
+
+@media only screen and (max-width:639px) {
+    .slide {
+        width: auto;
+    }
+}
+
+@media only screen and (max-width:299px) {
+    .carousel.slide {
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:799px) {
+    .carousel {
+        width: auto;
+    }
+}
+
+@media only screen and (min-width:1200px) and (max-width:1279px) {
+    .slide {
+    }
+}
+
+@media only screen and (max-width:1023px) {
+    .slide {
+    }
+}
