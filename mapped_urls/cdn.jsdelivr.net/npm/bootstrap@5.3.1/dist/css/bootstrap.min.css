@@ -9458,6 +9458,7 @@ fieldset:disabled .btn {
 .text-warning {
     --bs-text-opacity: 1;
     color: rgba(var(--bs-warning-rgb),var(--bs-text-opacity))!important;
+    font-family: 'Fjalla One', sans-serif;
 }
 
 .text-danger {
@@ -9483,6 +9484,7 @@ fieldset:disabled .btn {
 .text-white {
     --bs-text-opacity: 1;
     color: rgba(var(--bs-white-rgb),var(--bs-text-opacity))!important;
+    font-family: 'Fjalla One', sans-serif;
 }
 
 .text-body {
